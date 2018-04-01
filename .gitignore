@@ -1,0 +1,5 @@
+.stack-work/
+.vscode/
+eventbus.cabal
+*~
+*.EXE.prof
